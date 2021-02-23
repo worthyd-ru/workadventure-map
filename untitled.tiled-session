@@ -212,10 +212,10 @@
         },
         "bentonville-office-floor1v4.json": {
             "scale": 0.75,
-            "selectedLayer": 15,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1829.3333333333335,
-                "y": 935.9999999999999
+                "x": 1544,
+                "y": 607.9999999999999
             }
         },
         "bentonville-office-floor1v4.json#bicycle": {
@@ -228,7 +228,7 @@
             "scaleInDock": 1
         },
         "bentonville-office-floor1v4.json#floortileset": {
-            "scaleInDock": 1
+            "scaleInDock": 4
         },
         "bentonville-office-floor1v4.json#office": {
             "scaleInDock": 1
@@ -281,8 +281,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 734,
-                "y": 541
+                "x": 652,
+                "y": 539
             }
         },
         "map.json#floortileset": {
