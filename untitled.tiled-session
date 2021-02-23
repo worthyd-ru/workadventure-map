@@ -320,7 +320,7 @@
         "map.json"
     ],
     "project": "untitled.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "bentonville-office-floor1v4.json",
         "map.json",
