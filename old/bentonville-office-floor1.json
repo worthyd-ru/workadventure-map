@@ -260,89 +260,35 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.02.15",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
-         "columns":8,
          "firstgid":1,
-         "image":"images\/floortileset.png",
-         "imageheight":256,
-         "imagewidth":256,
-         "margin":0,
-         "name":"floortileset",
-         "spacing":0,
-         "tilecount":64,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"floortileset.tsx"
         }, 
         {
-         "columns":16,
          "firstgid":65,
-         "image":"images\/office.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"office",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"office.tsx"
         }, 
         {
-         "columns":16,
          "firstgid":321,
-         "image":"images\/tilesets_deviant_milkian_1.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_1",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets_deviant_milkian_1.tsx"
         }, 
         {
-         "columns":10,
          "firstgid":577,
-         "image":"images\/fence.png",
-         "imageheight":288,
-         "imagewidth":320,
-         "margin":0,
-         "name":"fence",
-         "spacing":0,
-         "tilecount":90,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"fence.tsx"
         }, 
         {
-         "columns":16,
          "firstgid":667,
-         "image":"images\/bicycle.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"bicycle",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"bicycle.tsx"
         }, 
         {
-         "columns":12,
          "firstgid":923,
-         "image":"images\/door.png",
-         "imageheight":512,
-         "imagewidth":384,
-         "margin":0,
-         "name":"door",
-         "spacing":0,
-         "tilecount":192,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"door.tsx"
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":1.4,
  "width":80
 }

@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"bentonville-office-floor1..json"
+         "target":"bentonville-office-floor12.json"
         }
     },
  "height":40,
@@ -266,7 +266,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"images\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -279,7 +279,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"images\/office.png",
+         "image":"office.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -292,7 +292,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"images\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -305,7 +305,7 @@
         {
          "columns":10,
          "firstgid":577,
-         "image":"images\/fence.png",
+         "image":"fence.png",
          "imageheight":288,
          "imagewidth":320,
          "margin":0,
@@ -318,7 +318,7 @@
         {
          "columns":16,
          "firstgid":667,
-         "image":"images\/bicycle.png",
+         "image":"bicycle.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -331,7 +331,7 @@
         {
          "columns":12,
          "firstgid":923,
-         "image":"images\/door.png",
+         "image":"door.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
