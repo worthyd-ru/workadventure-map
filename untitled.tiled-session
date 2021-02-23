@@ -257,6 +257,7 @@
             "scaleInEditor": 1
         }
     },
+    "map.lastUsedFormat": "json",
     "openFiles": [
         "map.json",
         "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json"
