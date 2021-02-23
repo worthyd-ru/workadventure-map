@@ -42,11 +42,11 @@
             "scaleInDock": 1
         },
         "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json": {
-            "scale": 0.5,
+            "scale": 0.75,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1286,
-                "y": 720
+                "x": 1060,
+                "y": 750.6666666666667
             }
         },
         "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json#extset_ice": {
@@ -211,11 +211,11 @@
             "scaleInDock": 1
         },
         "bentonville-office-floor1v4.json": {
-            "scale": 3,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1039,
-                "y": 557.6666666666666
+                "x": 1808,
+                "y": 686.6666666666667
             }
         },
         "bentonville-office-floor1v4.json#bicycle": {
