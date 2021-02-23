@@ -1,9 +1,13 @@
 {
-    "activeFile": "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
         "C:/Users/danie/Downloads/Bentonville Floor 1/Bentonville/office.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -206,6 +210,32 @@
         "bentonville-office-floor1v3.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
+        "bentonville-office-floor1v4.json": {
+            "scale": 0.75,
+            "selectedLayer": 15,
+            "viewCenter": {
+                "x": 1829.3333333333335,
+                "y": 935.9999999999999
+            }
+        },
+        "bentonville-office-floor1v4.json#bicycle": {
+            "scaleInDock": 1
+        },
+        "bentonville-office-floor1v4.json#door": {
+            "scaleInDock": 1
+        },
+        "bentonville-office-floor1v4.json#fence": {
+            "scaleInDock": 1
+        },
+        "bentonville-office-floor1v4.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "bentonville-office-floor1v4.json#office": {
+            "scaleInDock": 1
+        },
+        "bentonville-office-floor1v4.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
         "bentonville-office.tmx": {
             "scale": 0.6575781249999999,
             "selectedLayer": 0,
@@ -251,8 +281,8 @@
             "scale": 1,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 735,
-                "y": 542.5
+                "x": 734,
+                "y": 541
             }
         },
         "map.json#floortileset": {
@@ -286,12 +316,14 @@
     },
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "map.json",
-        "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json"
+        "bentonville-office-floor1v4.json",
+        "map.json"
     ],
     "project": "untitled.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "bentonville-office-floor1v4.json",
+        "map.json",
         "bentonville-office-floor1.json",
         "door.tsx",
         "tilesets_deviant_milkian_1.tsx",
@@ -301,8 +333,6 @@
         "map2.json",
         "bicycle.tsx",
         "C:/Users/danie/Downloads/Bentonville/bentonville-office-floor1.json",
-        "map.json",
-        "C:/Users/danie/Downloads/Bentonville/door.tsx",
-        "Testing/bentonville-office-floor12.json"
+        "C:/Users/danie/Downloads/Bentonville/door.tsx"
     ]
 }
