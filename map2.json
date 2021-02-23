@@ -265,27 +265,27 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"floortileset.tsx"
+         "source":"floortileset.png"
         }, 
         {
          "firstgid":65,
-         "source":"office.tsx"
+         "source":"office.png"
         }, 
         {
          "firstgid":321,
-         "source":"tilesets_deviant_milkian_1.tsx"
+         "source":"tilesets_deviant_milkian_1.png"
         }, 
         {
          "firstgid":577,
-         "source":"fence.tsx"
+         "source":"fence.png"
         }, 
         {
          "firstgid":667,
-         "source":"bicycle.tsx"
+         "source":"bicycle.png"
         }, 
         {
          "firstgid":923,
-         "source":"door.tsx"
+         "source":"door.png"
         }],
  "tilewidth":32,
  "type":"map",
