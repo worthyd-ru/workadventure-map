@@ -177,16 +177,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":577,
-         "source":"fence.tsx"
+         "image":"images\/fence.png",
+         "imageheight":288,
+         "imagewidth":320,
+         "margin":0,
+         "name":"fence",
+         "spacing":0,
+         "tilecount":90,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":667,
-         "source":"bicycle.tsx"
+         "image":"images\/bicycle.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"bicycle",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":12,
          "firstgid":923,
-         "source":"door.tsx"
+         "image":"images\/door.png",
+         "imageheight":512,
+         "imagewidth":384,
+         "margin":0,
+         "name":"door",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":32,
