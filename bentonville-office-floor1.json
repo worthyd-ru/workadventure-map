@@ -290,7 +290,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"bentonville-upstairs"
+                 "value":"bentonville-office-upstairs.json"
                 }],
          "type":"tilelayer",
          "visible":true,
