@@ -160,8 +160,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"office.tsx"
+         "image":"images\/office.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
