@@ -1,5 +1,5 @@
 {
-    "activeFile": "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json",
+    "activeFile": "bentonville-office-floor1.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -107,10 +107,10 @@
         },
         "bentonville-office-floor1.json": {
             "scale": 1,
-            "selectedLayer": 17,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 855,
-                "y": 773
+                "x": 1685,
+                "y": 685
             }
         },
         "bentonville-office-floor1.json#bicycle": {
@@ -239,11 +239,11 @@
             "scaleInEditor": 2
         },
         "bentonville-office-upstairs.json": {
-            "scale": 2,
-            "selectedLayer": 4,
+            "scale": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 446,
-                "y": 507
+                "x": 1270,
+                "y": 399
             }
         },
         "bentonville-office-upstairs.json#bicycle": {
@@ -263,7 +263,8 @@
             "scaleInDock": 1
         },
         "bentonville-office-upstairs.json#office": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "bentonville-office-upstairs.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1,
@@ -360,24 +361,23 @@
     },
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "bentonville-office-floor1v4.json",
-        "map.json",
-        "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json"
+        "bentonville-office-upstairs.json",
+        "bentonville-office-floor1.json"
     ],
     "project": "untitled.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "bentonville-office-upstairs.json",
+        "bentonville-office-floor1.json",
         "bentonville-office-floor1v4.json",
         "map.json",
         "tilesets_deviant_milkian_1.tsx",
         "bentonville-office.tmx",
         "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json",
-        "bentonville-office-floor1.json",
         "door.tsx",
         "floortileset.tsx",
         "bentonville-office-floor12.json",
         "map2.json",
-        "bicycle.tsx",
-        "C:/Users/danie/Downloads/Bentonville/bentonville-office-floor1.json"
+        "bicycle.tsx"
     ]
 }
