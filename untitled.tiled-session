@@ -107,7 +107,7 @@
         },
         "bentonville-office-floor1.json": {
             "scale": 1,
-            "selectedLayer": 15,
+            "selectedLayer": 16,
             "viewCenter": {
                 "x": 1685,
                 "y": 685
@@ -240,7 +240,7 @@
         },
         "bentonville-office-upstairs.json": {
             "scale": 1,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 1270,
                 "y": 399
