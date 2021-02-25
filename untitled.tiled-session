@@ -331,7 +331,7 @@
         "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json"
     ],
     "project": "untitled.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "bentonville-office-floor1v4.json",
         "map.json",
