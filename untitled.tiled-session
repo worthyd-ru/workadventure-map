@@ -107,10 +107,10 @@
         },
         "bentonville-office-floor1.json": {
             "scale": 1,
-            "selectedLayer": 15,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 999,
-                "y": 755
+                "x": 1264,
+                "y": 639.5
             }
         },
         "bentonville-office-floor1.json#bicycle": {
@@ -242,8 +242,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1270,
-                "y": 399
+                "x": 667,
+                "y": 301.5
             }
         },
         "bentonville-office-upstairs.json#bicycle": {
@@ -323,8 +323,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 511,
-                "y": 80
+                "x": 736,
+                "y": 543.5
             }
         },
         "map.json#floortileset": {
@@ -362,15 +362,16 @@
     "map.lastUsedFormat": "json",
     "openFiles": [
         "bentonville-office-upstairs.json",
-        "bentonville-office-floor1.json"
+        "bentonville-office-floor1.json",
+        "map.json"
     ],
     "project": "untitled.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "bentonville-office-upstairs.json",
+        "map.json",
         "bentonville-office-floor1.json",
         "bentonville-office-floor1v4.json",
-        "map.json",
         "tilesets_deviant_milkian_1.tsx",
         "bentonville-office.tmx",
         "C:/Users/danie/Downloads/workadventure-php-community-map-master/map.json",
