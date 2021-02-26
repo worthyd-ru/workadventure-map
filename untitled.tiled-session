@@ -366,7 +366,7 @@
         "map.json"
     ],
     "project": "untitled.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "bentonville-office-upstairs.json",
         "map.json",
